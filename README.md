@@ -1,1 +1,1 @@
-# platform_iopc_panda
+# platform_iopc_rpi2
